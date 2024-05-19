@@ -1,4 +1,4 @@
-![image](https://github.com/digifytech/digifytech/assets/170190437/e6ef6789-7c98-4f6a-9f5c-dcc6b6a368ed)<p align="center">
+<p align="center">
   <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px"> <br>
 <br>
 </p>

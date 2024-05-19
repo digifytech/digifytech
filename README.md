@@ -14,7 +14,7 @@
 
 
 <p allign="center>
-🔗 	[Fiverr](#https://www.fiverr.com/digifytech)
+🔗 	[Fiverr](https://www.fiverr.com/digifytech)
 
 </p>
 

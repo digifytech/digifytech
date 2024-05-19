@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/digifytech/digifytech/assets/170190437/e6ef6789-7c98-4f6a-9f5c-dcc6b6a368ed)<p align="center">
   <img src="https://github.com/RahulSurana123/RahulSurana123/blob/main/Developer.gif" width="200px"> <br>
 <br>
 </p>
@@ -7,7 +7,7 @@
 - 👋 Hi, We're DigifyTech 
 - ✍️ Your One-Stop Shop for Digital Success: Web Dev, Design, Editing & Excel
 - ⚔️ Your versatile digital Swiss Army Knife!
-- 👀 Offer a comprehensive suite of services to bring your projects to life: *Captivating Web Development *Eye-Catching Graphics Design *Flawless Editing *Excel Expertise
+- 💻 Offer a comprehensive suite of services to bring your projects to life: *Captivating Web Development *Eye-Catching Graphics Design *Flawless Editing *Excel Expertise
 - ⏱️ Why Choose Me? -Seamless Collaboration -Quality & Efficiency -Tailored Solutions
 - 📫 Ready to take your project to the next level? reach us at -> digifytech.in@gmail.com
 

@@ -14,8 +14,7 @@
 
 
 <p allign="center>
-🔗 	[Fiverr](https://www.fiverr.com/digifytech)
- [Handlebars templates](http://handlebarsjs.com/)
+🔗 	[Fiverr](https://www.fiverr.com/digifytech/)
 
 </p>
 

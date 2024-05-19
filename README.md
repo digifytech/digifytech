@@ -16,6 +16,6 @@
 <p>Also, you can reach us at -> </p>
 
 🔗 	[Fiverr](https://www.fiverr.com/digifytech/) <br>
-🔗 	[freelancer](https://www.freelancer.com/u/digifytech?sb=t)
+🔗 	[Freelancer](https://www.freelancer.com/u/digifytech?sb=t)
 
 
